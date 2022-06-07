@@ -2,6 +2,7 @@
 
 | Number | Name | Date | Platform | Certificate |
 | :---: | :---: | :---: | :---: | :---: |
+|9|Zephyr Squad Manual Test Engineer|June 2022|SmartBear Academy|<a href="https://drive.google.com/file/d/1_WWWRcZoc5HCUvcqUWLyRmQjiXNYVVoh/view?usp=sharing">Certificate</a>|
 |8|Docker for the Absolute Beginner|May 2022|KodeKloud|<a href="https://drive.google.com/file/d/1rnyVGXeNwK_voSTCtNixqIMk5oh5GMLF/view?usp=sharing">Certificate</a>|
 |7|Android Test Automation With Espresso|May 2022|Test Automation University|<a href="https://drive.google.com/file/d/1b7M9NPvZz9PONRPbZnwp5YonVO5qTGVN/view?usp=sharing">Certificate</a>|
 |6|API Test Automation with Postman|Jan 2022|Test Automation University|<a href="https://drive.google.com/file/d/1OVrY-6umBbyupAvWq3JiLvIiKx68_gVj/view?usp=sharing">Certificate</a>|
