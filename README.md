@@ -2,6 +2,7 @@
 
 | Number | Name | Date | Platform | Certificate |
 | :---: | :---: | :---: | :---: | :---: |
+|11|Appium Mobile Automation - Android & iOS + Frameworks + CICD|In Progress|udemy||
 |10|Introduction to Python Scripting|Sep 2022|A Cloud Guru|<a href="https://drive.google.com/file/d/1AiZSFnzmYal_iF2i4JV3EnIXh3lNqM5U/view?usp=sharing">Certificate</a>|
 |9|Zephyr Squad Manual Test Engineer|June 2022|SmartBear Academy|<a href="https://drive.google.com/file/d/1_WWWRcZoc5HCUvcqUWLyRmQjiXNYVVoh/view?usp=sharing">Certificate</a>|
 |8|Docker for the Absolute Beginner|May 2022|KodeKloud|<a href="https://drive.google.com/file/d/1rnyVGXeNwK_voSTCtNixqIMk5oh5GMLF/view?usp=sharing">Certificate</a>|
