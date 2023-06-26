@@ -2,7 +2,7 @@
 
 | Number | Name | Date | Platform | Certificate |
 | :---: | :---: | :---: | :---: | :---: |
-|15|AWS-CLF-C01|June 2023|A Cloud Guru|<a href="[https://drive.google.com/file/d/1009c70lrO7aToDnoZcIN1B540TSuCMEL/view?usp=sharing](https://drive.google.com/file/d/1DcnYtRLCTfYtUsaqYioLl3_3ia0i4vwB/view?usp=sharing)">Certificate</a>|
+|15|AWS-CLF-C01|June 2023|A Cloud Guru|<a href="https://drive.google.com/file/d/1DcnYtRLCTfYtUsaqYioLl3_3ia0i4vwB/view?usp=sharing">Certificate</a>|
 |14|Processing Serverless Data Using AWS Lambda|May 2023|A Cloud Guru|<a href="https://drive.google.com/file/d/1009c70lrO7aToDnoZcIN1B540TSuCMEL/view?usp=sharing">Certificate</a>|
 |13|ISTQB-CTFL|Feb 2023|ESTQB-ITIDA|<a href="https://drive.google.com/file/d/1iFNPDMKpFa6iw7iUOIWXmw1K6807uTa6/view?usp=sharing">Certificate</a>|
 |12|Learning Apache Tomcat|March 2023|LinkedIn Learning|<a href="https://drive.google.com/file/d/1_hzsYuTFlnySyVMzJVCHK5hDv4ImSPFc/view?usp=sharing">Certificate</a>|
