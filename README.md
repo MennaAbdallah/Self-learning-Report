@@ -2,6 +2,8 @@
 
 | Number | Name | Date | Platform | Certificate |
 | :---: | :---: | :---: | :---: | :---: |
+|17|HashiCorp Certified Terraform Associate|Oct 2023|A Cloud Guru|<a href="https://drive.google.com/file/d/1f9zwgVSfDXodIEr4Sf_IPZQAC8J-hKsY/view?usp=sharing">Certificate</a>|
+|16|AWS Certified Cloud Practitioner|June 2023|Amazon Web Services|<a href="https://www.credly.com/badges/6e396761-cd66-4ea9-accd-3d9682aa8951/public_url">Credly Badge</a>|
 |15|AWS-CLF-C01|June 2023|A Cloud Guru|<a href="https://drive.google.com/file/d/1DcnYtRLCTfYtUsaqYioLl3_3ia0i4vwB/view?usp=sharing">Certificate</a>|
 |14|Processing Serverless Data Using AWS Lambda|May 2023|A Cloud Guru|<a href="https://drive.google.com/file/d/1009c70lrO7aToDnoZcIN1B540TSuCMEL/view?usp=sharing">Certificate</a>|
 |13|ISTQB-CTFL|Feb 2023|ESTQB-ITIDA|<a href="https://drive.google.com/file/d/1iFNPDMKpFa6iw7iUOIWXmw1K6807uTa6/view?usp=sharing">Certificate</a>|
