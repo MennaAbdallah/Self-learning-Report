@@ -2,13 +2,12 @@
 
 | Number | Name | Date | Platform | Certificate |
 | :---: | :---: | :---: | :---: | :---: |
-|17|HashiCorp Certified Terraform Associate|Oct 2023|A Cloud Guru|<a href="https://drive.google.com/file/d/1f9zwgVSfDXodIEr4Sf_IPZQAC8J-hKsY/view?usp=sharing">Certificate</a>|
-|16|AWS Certified Cloud Practitioner|June 2023|Amazon Web Services|<a href="https://www.credly.com/badges/6e396761-cd66-4ea9-accd-3d9682aa8951/public_url">Credly Badge</a>|
-|15|AWS-CLF-C01|June 2023|A Cloud Guru|<a href="https://drive.google.com/file/d/1DcnYtRLCTfYtUsaqYioLl3_3ia0i4vwB/view?usp=sharing">Certificate</a>|
-|14|Processing Serverless Data Using AWS Lambda|May 2023|A Cloud Guru|<a href="https://drive.google.com/file/d/1009c70lrO7aToDnoZcIN1B540TSuCMEL/view?usp=sharing">Certificate</a>|
-|13|ISTQB-CTFL|Feb 2023|ESTQB-ITIDA|<a href="https://drive.google.com/file/d/1iFNPDMKpFa6iw7iUOIWXmw1K6807uTa6/view?usp=sharing">Certificate</a>|
+|16|HashiCorp Certified Terraform Associate|Oct 2023|A Cloud Guru|<a href="https://drive.google.com/file/d/1f9zwgVSfDXodIEr4Sf_IPZQAC8J-hKsY/view?usp=sharing">Certificate</a>|
+|15|AWS Certified Cloud Practitioner|June 2023|Amazon Web Services|<a href="https://www.credly.com/badges/6e396761-cd66-4ea9-accd-3d9682aa8951/public_url">Credly Badge</a>|
+|14|AWS-CLF-C01|June 2023|A Cloud Guru|<a href="https://drive.google.com/file/d/1DcnYtRLCTfYtUsaqYioLl3_3ia0i4vwB/view?usp=sharing">Certificate</a>|
+|13|Processing Serverless Data Using AWS Lambda|May 2023|A Cloud Guru|<a href="https://drive.google.com/file/d/1009c70lrO7aToDnoZcIN1B540TSuCMEL/view?usp=sharing">Certificate</a>|
 |12|Learning Apache Tomcat|March 2023|LinkedIn Learning|<a href="https://drive.google.com/file/d/1_hzsYuTFlnySyVMzJVCHK5hDv4ImSPFc/view?usp=sharing">Certificate</a>|
-|11|ISTQB-CTFL|Feb 2023|International Software Testing Qualifications Board|<a href="http://scr.istqb.org/?name=&number=230207011&orderBy=relevancy&orderDirection=&dateStart=&dateEnd=&expiryStart=&expiryEnd=&certificationBody=&examProvider=&certificationLevel=&country=">Certificate</a>|
+|11|ISTQB-CTFL|Feb 2023|ESTQB-ITIDA|<a href="https://drive.google.com/file/d/1iFNPDMKpFa6iw7iUOIWXmw1K6807uTa6/view?usp=sharing">Certificate</a>|
 |10|Introduction to Python Scripting|Sep 2022|A Cloud Guru|<a href="https://drive.google.com/file/d/1AiZSFnzmYal_iF2i4JV3EnIXh3lNqM5U/view?usp=sharing">Certificate</a>|
 |9|Zephyr Squad Manual Test Engineer|June 2022|SmartBear Academy|<a href="https://drive.google.com/file/d/1_WWWRcZoc5HCUvcqUWLyRmQjiXNYVVoh/view?usp=sharing">Certificate</a>|
 |8|Docker for the Absolute Beginner|May 2022|KodeKloud|<a href="https://drive.google.com/file/d/1rnyVGXeNwK_voSTCtNixqIMk5oh5GMLF/view?usp=sharing">Certificate</a>|
