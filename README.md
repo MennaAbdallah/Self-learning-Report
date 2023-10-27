@@ -2,6 +2,8 @@
 
 | Number | Name | Date | Platform | Certificate |
 | :---: | :---: | :---: | :---: | :---: |
+|18|Introduction to Terragrunt for Cloud|Oct 2023|A Cloud Guru|<a href="https://drive.google.com/file/d/1njDMAHqE0u4Fqy9rv-_pUdrCjZ7MEh1u/view?usp=sharing">Certificate</a>|
+|17|HashiCorp Certified: Terraform Associate (003)|Oct 2023|HashiCorp|<a href="https://www.credly.com/badges/972b980b-952a-4f82-b8c2-006d312d30bf/public_url">Credly Badge</a>|
 |16|HashiCorp Certified Terraform Associate|Oct 2023|A Cloud Guru|<a href="https://drive.google.com/file/d/1f9zwgVSfDXodIEr4Sf_IPZQAC8J-hKsY/view?usp=sharing">Certificate</a>|
 |15|AWS Certified Cloud Practitioner|June 2023|Amazon Web Services|<a href="https://www.credly.com/badges/6e396761-cd66-4ea9-accd-3d9682aa8951/public_url">Credly Badge</a>|
 |14|AWS-CLF-C01|June 2023|A Cloud Guru|<a href="https://drive.google.com/file/d/1DcnYtRLCTfYtUsaqYioLl3_3ia0i4vwB/view?usp=sharing">Certificate</a>|
