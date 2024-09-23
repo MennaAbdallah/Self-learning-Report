@@ -2,6 +2,8 @@
 
 | Number | Name | Date | Platform | Certificate |
 | :---: | :---: | :---: | :---: | :---: |
+|21|Prometheus Certified Associate (PCA)|Sep 2024|The Linux Foundation|<a href="https://drive.google.com/file/d/1JEWpuGP6i-UJoB3rCUjdbRHaEg7EbIyS/view?usp=sharing">Certificate</a>|
+|20|Prometheus Certified Associate Cource (PCA)|Sep 2024|KodeKloud|<a href="https://drive.google.com/file/d/1ZqCP5rGgH4S6IW-TcZblpxjHR3-RP6qr/view?usp=sharing">Certificate</a>|
 |19|Certified Kubernetes Administrator (CKA)|July 2024|The Linux Foundation|<a href="https://www.credly.com/badges/beb6a7bf-b537-4c64-8ae7-292241134c70/public_url">Credly Badge</a>|
 |18|Introduction to Terragrunt for Cloud|Oct 2023|A Cloud Guru|<a href="https://drive.google.com/file/d/1njDMAHqE0u4Fqy9rv-_pUdrCjZ7MEh1u/view?usp=sharing">Certificate</a>|
 |17|HashiCorp Certified: Terraform Associate (003)|Oct 2023|HashiCorp|<a href="https://www.credly.com/badges/972b980b-952a-4f82-b8c2-006d312d30bf/public_url">Credly Badge</a>|
